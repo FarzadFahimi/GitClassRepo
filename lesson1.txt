@@ -5,4 +5,3 @@ helllo!
 *********************
 3rd text
 branch lesson
-main conflictgit status and more
